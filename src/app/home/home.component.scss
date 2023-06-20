@@ -7,3 +7,24 @@ q {
   font-size: 1.2rem;
   quotes: "« " " »";
 }
+
+.py {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+li{
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+button{
+  font-family: 'Dosis', sans-serif;
+  text-transform: uppercase;
+  background-color: #ed5f6f;
+  color: white;
+  border-style: none;
+}
+
+button:hover{
+  box-shadow: 1px 2px 1px #bd4c58;
+}
